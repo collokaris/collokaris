@@ -15,10 +15,10 @@ Find Me on [LinkedIn](https://www.linkedin.com/in/collins-kariuki-17a4bb18a/)
 ---
 
 ## Tools & Tech 🛠️
-**Backend Frameworks** - NestJS, Express.js, Node.js
-**Languages** - TypeScript, JavaScript, Python, SQL
-**Databases** - PostgreSQL, MongoDB, MySQL, Firestore, Redis
-**Tools** - Docker, NX, TurboRepo
+* **Backend Frameworks** - NestJS, Express.js, Node.js
+* **Languages** - TypeScript, JavaScript, Python, SQL
+* **Databases** - PostgreSQL, MongoDB, MySQL, Firestore, Redis
+* **Tools** - Docker, NX, TurboRepo
 
 ---
 
