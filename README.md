@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Collins, a software engineer based in Nairobi, Kenya, and can overlap with US/EU hours.
+I am Collins, a software engineer based in Nairobi, Kenya.
 
 I primarily work on backend stuff using NestJS, Express.js, and Node.js.
 
